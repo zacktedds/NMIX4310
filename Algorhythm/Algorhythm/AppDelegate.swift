@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  FunFacts
+//  Algorhythm
 //
-//  Created by John Weatherford on 10/14/15.
-//  Copyright © 2015 NMI. All rights reserved.
+//  Created by Zack Tedders on 10/20/15.
+//  Copyright © 2015 Zack Tedders. All rights reserved.
 //
 
 import UIKit
