@@ -10,6 +10,10 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    override func preferredStatusBarStyle() -> UIStatusBarStyle {
+        return .LightContent
+    }
+    
     @IBOutlet weak var funFactLabel: UILabel!
     @IBOutlet weak var funFactButton: UIButton!
     
